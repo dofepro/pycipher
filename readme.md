@@ -34,8 +34,9 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 **Domingo** - Desarrollador Python
 - 📧 **Correo:** domingofelizpro@email.com
 - 💼 **Fiverr:** [Visita mi perfil de Fiverr y trabajemos juntos](https://www.fiverr.com/tu_usuario_aqui)
-- 💻 **GitHub:** [github.com/tu_usuario](https://github.com/dofepro )
+- 💻 **GitHub:** [github.com/dofepro](https://github.com/dofepro )
 
 ---
 
 *Diseñado y construido para demostrar habilidades prácticas en programación backend con Python.*
+
